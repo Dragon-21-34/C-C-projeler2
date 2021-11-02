@@ -1,0 +1,6 @@
+1- /*Örnek Program*/
+2- #include <stgdio.h>                                     
+3- int main () {                                         
+4- printf ("Merhaba Hasan! \ n");                        
+5- getch();                       
+6- }
